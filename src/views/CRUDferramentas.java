@@ -13,10 +13,6 @@ import javax.persistence.RollbackException;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Aluno
- */
 public class CRUDferramentas extends JPanel {
     
     public CRUDferramentas() {
